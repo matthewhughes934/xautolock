@@ -80,7 +80,7 @@
 #define LOCK_MINS         10          /* default ...                       */
 #define MAX_LOCK_MINS     60          /* maximum ...                       */
 
-#define MIN_KILL_MINS     10          /* minimum number of minutes
+#define MIN_KILL_MINS     1           /* minimum number of minutes
                                          before firing up the killer       */
 #define KILL_MINS         20          /* default ...                       */
 #define MAX_KILL_MINS     120         /* maximum ...                       */
